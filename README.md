@@ -1,4 +1,3 @@
-```markdown
 # Escáner 3D
 
 Este proyecto implementa un escáner 3D utilizando Python y varias bibliotecas de procesamiento de imágenes y modelado 3D.
@@ -76,13 +75,3 @@ Este proyecto implementa un escáner 3D utilizando Python y varias bibliotecas d
 - Asegúrate de tener una cámara conectada y funcionando correctamente antes de iniciar la captura.
 - La calidad del modelo 3D puede variar dependiendo de las condiciones de iluminación y la complejidad del objeto escaneado.
 - Para mejores resultados, realiza el escaneo en un ambiente bien iluminado y con el objeto colocado sobre una superficie plana.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de enviar un pull request.
-
-## Licencia
-
-[Incluye aquí la información de la licencia si es aplicable]
-
-```

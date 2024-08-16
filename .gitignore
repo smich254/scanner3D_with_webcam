@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+.scanner3d_claude_venv
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de capturas y modelos (si no quieres incluirlas en el repositorio)
+capturas/
+modelos/
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
